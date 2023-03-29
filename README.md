@@ -51,6 +51,8 @@ npm start
 
 ## API Reference
 
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/20643685-6de8fcf0-c906-4d16-9eac-151065e71030?action=collection%2Ffork&collection-url=entityId%3D20643685-6de8fcf0-c906-4d16-9eac-151065e71030%26entityType%3Dcollection%26workspaceId%3D03b07b58-1452-41b1-a68a-c3d941672bfc)
+
 ### Authentication
 
 #### Register
